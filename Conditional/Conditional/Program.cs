@@ -6,7 +6,7 @@ namespace Conditional
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hek")
+            Console.WriteLine("Hek");
         }
     }
 }
